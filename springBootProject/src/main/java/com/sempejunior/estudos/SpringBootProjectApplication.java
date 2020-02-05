@@ -1,4 +1,4 @@
-package br.com.sempejunior.estudos.springboot;
+package com.sempejunior.estudos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
